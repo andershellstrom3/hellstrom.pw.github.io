@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: 
+Allow: /
+Host: andershellstrom.net
+Sitemap: https://hellstrom-pw/sitemap.xml

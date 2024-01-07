@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Host: hellstrom.pw
 Sitemap: https://hellstrom.pw/sitemap.xml
